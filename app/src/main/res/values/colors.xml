@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary" >@color/material_blue_grey_900</color>
+    <color name="primary_dark" >@color/material_blue_grey_950</color>
+    <color name="accent" >@color/accent_material_dark</color>
+    <color name="divider" >@color/accent</color>
+</resources>
